@@ -15,11 +15,11 @@ Como funciona:
 </blockquote>
   
 ##
-Para compilar: make
+Para compilar: ```make```
   
 ##
 Para executar o código:
-  make run
+  ```make run```
 ##
 Para limpar o terminal após o funcionamento do código:
-  make clean
+  ```make clean```
