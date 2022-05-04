@@ -9,8 +9,7 @@ Como funciona:
   O programa irá percorrer as linhas somandos os valores e dando a soma final
   
 ##
-Para compilar:
-  make
+Para compilar:        make
   
 ##
 Para executar o código:
