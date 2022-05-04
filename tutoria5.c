@@ -29,7 +29,7 @@ int main()
             line_values[j] = matriz[i][j];
 
         if (pthread_create(&(threads[i]), NULL, add, (void *)line_values))
-            printf("ERRO ao criar a matriz!!!");
+            printf("ERRO AO CRIAR A MATRIZ");
     }
 
     for (i = 0; i < size; i++)
